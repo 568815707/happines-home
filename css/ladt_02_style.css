@@ -1,0 +1,38 @@
+a{font-family: "微软雅黑";}
+*{box-sizing: border-box;-webkit-box-sizing: border-box;}
+.head{height:100px;width: 100%;position: absolute;/*background-color: #ff0;*/ border-bottom: solid 1px #ccc;}
+.adds{display: block;position: absolute;left:310px;top:40px;font-size: 16px;border-left: solid 1px #ccc;width: 50px;text-align: center;font-family: "微软雅黑";}
+.downarrow1{position: absolute;left:360px;top: 46px;}
+.head>ul{position: absolute;left:400px;}
+.head>ul>li{height: 100px;width: auto;float: left;margin-left: 30px;line-height: 90px;text-align: center;border-top: solid 4px #FFFFFF;}
+.head>ul>li>a{display: block;font-size: 16px;height: 90px;}
+.head>ul>.lstyle{border-top: solid 4px #FF5F15;}
+#search{border: solid 1px #333333;border-radius: 6px;height:40px;width: 400px;position: absolute;left: 900px;top: 30px;padding-left: 80px;padding-right:90px;color:#333333;}
+.head>select{border:none;position: absolute;left: 910px;top:42px;border-right: solid 1px #ccc;}
+#insearch{position: absolute;background-color: #FF5F15;left: 1220px;top: 30px;height: 40px;width: 80px;border-top-right-radius: 6px;border-bottom-right-radius: 6px;text-align: center;}
+#insearch>a{font-size: 16px;color:#fff;display: block;line-height: 40px;}
+/*头部css内容部分结束*/
+
+
+
+
+
+
+
+
+
+
+/*footer部分bgein*/
+.footer{height: 350px;width: 100%;position: absolute;top:1600px;background-color: #fff;border-top: solid 1px #ccc; z-index: 8;}
+.fImg1{position: absolute;left: 200px;top:60px}
+.fImg2{position: absolute;left: 540px;top:60px}
+.fImg3{position: absolute;left: 880px;top:60px}
+.ftp1{position: absolute;left:280px ;top:70px;height: 150px;width: 250px;}
+.ftp2{position: absolute;left:620px ;top:70px;height: 150px;width: 250px;}
+.ftp3{position: absolute;left:960px ;top:70px;height: 150px;width: 250px;}
+#about,#aboutxfj,#focus,#gzwm,#other,#kflm{font-size: 20px; }
+.ftp1>a,.ftp2>a,.ftp3>a{display: block;margin-top: 10px; font-size: 14px;color: #666;}
+#tel{font-size: 20px;margin-top: 10px;font-weight: bold;letter-spacing: 1px;}
+.ftp2>img{margin-top: 10px;margin-right: 30px;}
+#address{position: absolute;left:330px;top:280px;font-size: 12px;}
+
